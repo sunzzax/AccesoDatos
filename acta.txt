@@ -1,0 +1,6 @@
+Nombre y apellidos 	 DNI 	 Nota teoría 	 Nota práct.	 Nota final 	 Nota acta
+Manuel Rodríguez Rodríguez	11111111A	10,00	7,00	8,35	Notable
+Antonio Sánchez Sánchez	22222222B	5,00	6,00	5,55	Aprobado
+Felipe Gómez Gómez	33333333C	8,00	9,00	8,55	Sobresaliente
+Sonia Aznar Aznar	44444444D	5,00	6,00	5,55	Aprobado
+Manuel García García	55555555E	2,00	3,00	2,55	Suspenso

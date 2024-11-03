@@ -1,0 +1,5 @@
+Manuel Rodríguez Rodríguez;11111111A;10;7
+Antonio Sánchez Sánchez;22222222B;5;6
+Felipe Gómez Gómez;33333333C;8;9
+Sonia Aznar Aznar;44444444D;5;6
+Manuel García García;55555555E;2;3

@@ -1,0 +1,18 @@
+xxx
+0001::caja::caja de tipo 1::10.50
+0002::tornillo::tornillo de tipo 1::0.50
+xxxx
+-----------
+0003::tuerca::tuerca de tipo 1::0.15
+0004::tuerca::tuerca de tipo 2::0.14
+0005::tuerca::tuerca de tipo 3::0.17
+0006::tuerca::tuerca de tipo 4::0.17
+0007::tornillo::tornillo de tipo 2::0.55
+0008::arandela::arandela de tipo 1::0.11
+0009::arandela::arandela de tipo 8
+0010::arandela::arandela de tipo 9::xxxx
+0011:arandela::arandela de tipo 2::0.07
+0012::arandela::arandela de tipo 3::0.21
+0013::arandela::arandela de tipo 2:0.07
+0014::caja::caja de tipo 2::12.99
+0015::caja::caja de tipo 3:15.99
