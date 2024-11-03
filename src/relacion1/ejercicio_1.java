@@ -15,7 +15,6 @@ public class ejercicio_1 {
             }
         }else{
             System.out.println("El directorio esta vacio.");
-            System.out.println("");
         }
     }
 }
